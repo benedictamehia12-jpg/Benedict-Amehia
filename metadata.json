@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel AI",
+  "description": "Real-time AI-powered fraud detection and transaction monitoring platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
